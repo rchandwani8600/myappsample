@@ -1,0 +1,1 @@
+CSSConditionRule.log("hello");
